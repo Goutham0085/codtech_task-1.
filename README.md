@@ -3,11 +3,11 @@
 
 This repository showcases my skills and projects in both frontend and backend development. As a third-year B.Tech student in Artificial Intelligence and Data Science at KCG College of Technology, I am passionate about building robust and user-friendly applications.
 
-**Name:** Abiram  
+**Name:** Gowtham  
 **Company:** Codtech IT Solutions  
 **ID:** CT08DS3055  
 **Domain:** Full-stack Development  
-**Duration:** June 25th to July 25th of 2024
+**Duration:** august 30 - september 30 of 2024
 
 ## Key Activity Overview
 
