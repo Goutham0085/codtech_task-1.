@@ -51,4 +51,6 @@ The Full-Stack Developer Portfolio showcases a collection of projects that demon
 - **Tools/Technologies:** Online courses, webinars, tech blogs.
 
 These key activities encompass the full scope of work involved in developing and maintaining a full-stack portfolio, demonstrating a comprehensive skill set in modern web development.
+![image](https://github.com/user-attachments/assets/d5c941a8-5f1f-4491-86b4-2426534f6e2f)
+
 
